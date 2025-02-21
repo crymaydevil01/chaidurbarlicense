@@ -1,8 +1,5 @@
 {
   "licenses": {
-    "dbff6598402a3477bafa25cabb1456e5ed9e8e3d9a18e7515d1412c97da867b0": { 
-      "machine_id": "EXAMPLE_MACHINE_ID", 
-      "expiry": "2025-03-20"
-    }
+    "dbff6598402a3477bafa25cabb1456e5ed9e8e3d9a18e7515d1412c97da867b0": "ENCRYPTED_DATA_HERE"
   }
 }
